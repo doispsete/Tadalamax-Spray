@@ -55,7 +55,7 @@ export const Testimonials: React.FC = () => {
             O Que Nossos <span className="text-red-500">Clientes</span> Dizem
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Mais de 50.000 homens já transformaram suas vidas com o Tadalamax
+            Milhares de homens já transformaram suas vidas com o Tadalamax
           </p>
         </div>
 
