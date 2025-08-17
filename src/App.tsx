@@ -62,8 +62,7 @@ function App() {
             
             <div className="text-gray-400 text-sm space-y-2">
               <p>* Resultados podem variar de pessoa para pessoa</p>
-              <p>** Produto testado e aprovado</p>
-              <p className="mt-4">© 2024 Tadalamax. Todos os direitos reservados.</p>
+              <p className="mt-4">© 2025 Tadalamax. Todos os direitos reservados.</p>
             </div>
           </div>
         </div>
