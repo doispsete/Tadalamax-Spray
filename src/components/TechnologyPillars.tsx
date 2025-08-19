@@ -79,11 +79,10 @@ export const TechnologyPillars: React.FC = () => {
         <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-red-600/20 to-red-700/20 rounded-2xl p-8 border border-red-500/30">
             <h3 className="text-2xl font-bold text-white mb-4">
-              🧬 RESPALDO CIENTÍFICO
+              VALORES
             </h3>
             <p className="text-gray-300 text-lg max-w-3xl mx-auto">
-              Desenvolvido com base em pesquisas científicas avançadas e testado 
-              rigorosamente para garantir eficácia e segurança máximas.
+              Nossos acompanhamentos começam a partir de R$27,98 em 5x no cartão.
             </p>
           </div>
         </div>
