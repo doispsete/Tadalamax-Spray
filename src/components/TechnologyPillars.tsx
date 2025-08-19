@@ -18,7 +18,7 @@ const pillars = [
     icon: Shield,
     title: "Segurança Comprovada",
     description: "Produto testado e aprovado, desenvolvido com os mais altos padrões de qualidade e segurança.",
-    benefits: ["Testado clinicamente", "Sem efeitos colaterais", "Aprovado pela ANVISA"]
+    benefits: ["Testado clinicamente", "Sem efeitos colaterais", "Aprovado clinicamente"]
   },
   {
     icon: Clock,

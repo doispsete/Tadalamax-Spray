@@ -69,7 +69,7 @@ export const DeliveryShowcase: React.FC = () => {
               🔒 GARANTIA TOTAL DE SEGURANÇA
             </h3>
             <p className="text-white text-lg">
-              Mais de 50.000 entregas realizadas com sucesso.<br />
+              Milhares de entregas realizadas com sucesso.<br />
               Sua confiança é nosso maior patrimônio.
             </p>
           </div>

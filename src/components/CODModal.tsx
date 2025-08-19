@@ -117,11 +117,11 @@ export const CODModal: React.FC<CODModalProps> = ({ isOpen, onClose }) => {
         {/* Stats */}
         <div className="grid grid-cols-3 gap-4 text-center">
           <div>
-            <div className="text-2xl font-bold text-green-500">50K+</div>
+            <div className="text-2xl font-bold text-green-500">Milhares de+</div>
             <div className="text-gray-300 text-sm">Entregas Realizadas</div>
           </div>
           <div>
-            <div className="text-2xl font-bold text-green-500">99.8%</div>
+            <div className="text-2xl font-bold text-green-500">80.8%</div>
             <div className="text-gray-300 text-sm">Satisfação</div>
           </div>
           <div>

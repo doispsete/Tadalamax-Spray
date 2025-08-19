@@ -108,6 +108,7 @@ export const Hero: React.FC<HeroProps> = ({ onSpecialistClick }) => {
                 src="/Spray Tadala MAX 30ML.png"
                 alt="Tadalamax Spray 30ML"
                 className="relative z-10 max-w-sm md:max-w-md lg:max-w-lg w-full h-auto drop-shadow-2xl"
+                
               />
             </div>
           </div>

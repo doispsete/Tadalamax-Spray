@@ -16,7 +16,7 @@ const faqs = [
   },
   {
     question: "Quanto tempo demora para fazer efeito?",
-    answer: "O Tadalamax Spray começa a fazer efeito em aproximadamente 15 minutos após a aplicação sublingual, com duração de 4 a 6 horas."
+    answer: "O Estimulante começa a fazer efeito em aproximadamente 15 minutos após a aplicação sublingual, com duração de 4 a 6 horas."
   },
   {
     question: "A embalagem é discreta?",
